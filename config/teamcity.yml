@@ -1,0 +1,6 @@
+api_url: "http://TeamCityURL:8111/httpAuth/app/rest"
+http_user: "username"
+http_password: "password"
+repositories:
+  template-data-id1: ProjectID1
+  template-data-id2: ProjectID2
