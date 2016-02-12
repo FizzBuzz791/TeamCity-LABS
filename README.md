@@ -7,10 +7,12 @@ Basic [Dashing](http://dashing.io/) widget to display TeamCity build info. Based
 ##Dependencies
 
 [teamcity-ruby-client](https://github.com/jperry/teamcity-ruby-client)
+[httparty](https://github.com/jnunemaker/httparty)
 
-Add it to dashing's gemfile:
+Add them to dashing's gemfile:
 
     gem 'teamcity-ruby-client'
+    gem 'httparty'
 
 and run `bundle install`.
 
